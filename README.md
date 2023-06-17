@@ -3,3 +3,8 @@
 2. [Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/AddTwoNumbers.cpp)\]
 3. [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/LongestSubNoRepeats.cpp)\]
 4. [Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/SortedArrayMedian.cpp)\]
+5. [Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/LongPalindromeSub.cpp)\]
+6. [ZigZag Conversion (Medium)](https://leetcode.com/problems/zigzag-conversion/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/ZigZagConversion.cpp)\]
+7. [Reverse Integer (Medium)](https://leetcode.com/problems/reverse-integer/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/ReverseInteger.cpp)\]
+8. [String to Integer (Medium)](https://leetcode.com/problems/string-to-integer-atoi/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/StringToInteger.cpp)\]
+9. [Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/PalindromeNumber.cpp)\]
