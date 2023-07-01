@@ -1,4 +1,4 @@
-#include<iostream>
+#include<limits.h>
 using namespace std;
 class Solution {
 public:
@@ -16,16 +16,3 @@ public:
     }
 
 };
-
-#include<iostream>
-int main() {
-    Solution s;
-
-    cout << s.reverse(1534236469) << endl;
-    int tests = 5;
-    int nums[] = { 123456, -123089, 0, -10, 2147483647 };
-    int sols[] = { 654321, -980321, 0, -1,  0 };
-    for (int i = 0; i < tests; i++) {
-        cout << nums[i] << " reversed as " << s.reverse(nums[i]) << " expected " << sols[i] << endl;
-    }
-}

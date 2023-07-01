@@ -8,3 +8,8 @@
 7. [Reverse Integer (Medium)](https://leetcode.com/problems/reverse-integer/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/ReverseInteger.cpp)\]
 8. [String to Integer (Medium)](https://leetcode.com/problems/string-to-integer-atoi/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/StringToInteger.cpp)\]
 9. [Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/PalindromeNumber.cpp)\]
+10. [Regular Expression Matching (Hard)](https://leetcode.com/problems/regular-expression-matching/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/RegexMatching.cpp)\]
+11. [Container With Most Water (Medium)](https://leetcode.com/problems/container-with-most-water/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/ContainerWithMostWater.cpp)\]
+12. [Integer to Roman (Medium)](https://leetcode.com/problems/integer-to-roman/) \[[Solution](https://github.com/alyysa/leet/blob/main/problems/IntToRoman.cpp)\]
+13. [Roman to Integer (Easy)](https://leetcode.com/problems/roman-to-integer/) \[[Solution](https://github.com/alysaa/leet/blob/main/problems/RomanToInt.cpp)\]
+14. [Longest Common Prefix (Easy)](https://leetcode.com/problems/longest-common-prefix/) \[[Solution](https://github.com/alyysaa/leet/blob/main/problems/LongestCommonPrefix.cpp)\]
